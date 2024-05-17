@@ -1,10 +1,10 @@
-This is a school management system buil on Django REST API.
+This is a school management system built on Django REST API.
 It tracks all the activities of the school from students'
 registration to result generation as well as report sheeet
 generation.
 
 The following will be the different types of users:
-1. Staff - Bursar, Subject Teachers, Student, Parent(s), Admin (Principal, Vice Principal, Prope=rietor)
+1. Staff - Bursar, Subject Teachers, Student, Parent(s), Admin (Principal, Vice Principal, Proprietor)
 
 The following routes would be created:
     1. Signup Page
